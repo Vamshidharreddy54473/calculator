@@ -1,2 +1,3 @@
-# calculator
-calculator example
+# Calculator Project
+
+A simple Python calculator built by Vamshi.
